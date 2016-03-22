@@ -32,8 +32,8 @@ public class SQLTest {
 		for (int i = 0; i < sightList.size(); i++){
 			SightSeeGuideModel temp = sightList.get(i);
 			System.out.println(temp);
-		}
-		*/
+		}*/
+		
 	}
 
 
